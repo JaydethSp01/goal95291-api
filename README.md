@@ -1,2 +1,3 @@
-# goal95291-api
-ScrumDev AI backend (goal95291-api)
+# Inventory System Backend
+
+This is the backend application for the Inventory System, built with FastAPI. It provides RESTful APIs for managing products, categories, stock, and suppliers.
